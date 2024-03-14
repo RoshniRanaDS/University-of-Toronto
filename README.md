@@ -2,7 +2,7 @@
 # Background for Analysis 
 Crowdfunding platforms like Kickstarter and Indiegogo have been growing in success and popularity since the late 2000s. From independent content creators to famous celebrities, more and more people are using crowdfunding to launch new products and generate buzz, but not every project has found success. To receive funding, the project must meet or exceed an initial goal, so many organizations dedicate considerable resources looking through old projects in an attempt to discover “the trick” to finding success. need to organize and analyze a database of 1,000 sample projects to uncover any hidden trends.
 
-# Presented report includes answer the following questions:
+# Presented report includes answers of the following questions:
 1.	Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
 2.	What are some limitations of this dataset?
 3.	What are some other possible tables and/or graphs that we could create, and what additional value would they provide?

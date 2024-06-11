@@ -5,6 +5,8 @@ Crowdfunding platforms like Kickstarter and Indiegogo have been growing in succe
 # Excel file and Report file are attached for More details
 
 # Work includes:
+![image](https://github.com/RoshniRanaDS/Data_Analysis_by_Excel/assets/161755928/0c687c3f-2931-4037-bb6e-c37490e4f92e)
+
 1.  Used the Excel workbook, modified and analyzed the sample-project data and tried to uncover market trends.
 Used conditional formatting to fill each cell in the outcome column with a different color, depending on whether the associated campaign was successful, failed, canceled, or is currently live.
 2. Created a new column called Percent Funded that uses a formula to find how much money a campaign made relative to its initial funding goal.

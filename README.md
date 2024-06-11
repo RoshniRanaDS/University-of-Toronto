@@ -29,6 +29,8 @@ Used conditional formatting to fill each cell in the outcome column with a diffe
 13. Created a new sheet with a pivot table that has a column of outcome, rows of Date Created Conversion, values based on the count of outcome, and filters based on parent category and Years.
 14. Now, created a pivot-chart line graph that visualizes this new table.
 15. Created a report in Microsoft Word, and for answering the required questions:(PDF file is included)
+
+# Crowdfunding Goal Analysis
 16. For Crowdfunding Goal Analysis, Created a new sheet with 8 columns with required column and row headers.
 
     ![image](https://github.com/RoshniRanaDS/Data_Analysis_by_Excel/assets/161755928/6c96f970-9d45-4ad0-a564-2b4562f71cdb)

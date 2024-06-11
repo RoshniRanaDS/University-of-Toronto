@@ -66,10 +66,4 @@ Used conditional formatting to fill each cell in the outcome column with a diffe
 
 # By incorporating these additional tables and graphs into the analysis, We may obtain a deeper comprehension of the dynamics of crowdfunding and pinpoint the elements that influence a campaign's success or failure
 
-<details>
-<summary>My top THINGS-TO-RANK</summary>
-
-YOUR TABLE
-
-</details>
-
+<!-- COMMENT -->

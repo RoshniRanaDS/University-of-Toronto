@@ -65,3 +65,11 @@ Used conditional formatting to fill each cell in the outcome column with a diffe
 4.	Analyze the relationship between the length of the campaign and its result (success, failure, etc.). Make a box plot or histogram that displays the distribution of campaign durations for campaigns that were successful and unsuccessful. 
 
 # By incorporating these additional tables and graphs into the analysis, We may obtain a deeper comprehension of the dynamics of crowdfunding and pinpoint the elements that influence a campaign's success or failure
+
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
+YOUR TABLE
+
+</details>
+

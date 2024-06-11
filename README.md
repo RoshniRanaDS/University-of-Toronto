@@ -10,7 +10,7 @@ Crowdfunding platforms like Kickstarter and Indiegogo have been growing in succe
 1.  Used the Excel workbook, modified and analyzed the sample-project data and tried to uncover market trends.
 Used conditional formatting to fill each cell in the outcome column with a different color, depending on whether the associated campaign was successful, failed, canceled, or is currently live.
 2. Created a new column called Percent Funded that uses a formula to find how much money a campaign made relative to its initial funding goal.
-3. Used conditional formatting to fill each cell in the Percent Funded column according to a three-color scale. The scale should start at 0 with a dark shade of red, and it should transition to green at 100 and blue at 200.
+3. Used <conditional formatting> to fill each cell in the Percent Funded column according to a three-color scale. The scale should start at 0 with a dark shade of red, and it should transition to green at 100 and blue at 200.
 4. Created a new column called Average Donation that uses a formula to find how much each project backer paid on average.
 5. Created two new columns, one called Parent Category and another called Sub-Category, that use formulas to split the Category and Sub-Category column into the two new, separate columns.
 6. Created a new sheet with a pivot table that analyzes initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.
@@ -66,4 +66,4 @@ Used conditional formatting to fill each cell in the outcome column with a diffe
 
 # By incorporating these additional tables and graphs into the analysis, We may obtain a deeper comprehension of the dynamics of crowdfunding and pinpoint the elements that influence a campaign's success or failure
 
-<!-- COMMENT -->
+

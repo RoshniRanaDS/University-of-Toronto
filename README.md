@@ -13,10 +13,12 @@ Used conditional formatting to fill each cell in the outcome column with a diffe
 3. Used conditional < formatting > to fill each cell in the Percent Funded column according to a three-color scale. The scale should start at 0 with a dark shade of red, and it should transition to green at 100 and blue at 200.
 4. Created a new column called Average Donation that uses a formula to find how much each project backer paid on average.
 5. Created two new columns, one called Parent Category and another called Sub-Category, that use formulas to split the Category and Sub-Category column into the two new, separate columns.
-   ![image](https://github.com/RoshniRanaDS/Data_Analysis_by_Excel/assets/161755928/790a855d-0600-45b3-837f-8b3d7718ba32)
+
+    ![image](https://github.com/RoshniRanaDS/Data_Analysis_by_Excel/assets/161755928/790a855d-0600-45b3-837f-8b3d7718ba32)
 #
 6. Created a new sheet with a pivot table that analyzes initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.
 7. Created a stacked-column pivot chart that can be filtered by country based on the table which is created.
+ #
    ![image](https://github.com/RoshniRanaDS/Data_Analysis_by_Excel/assets/161755928/07e808b4-4b8b-4245-9ea7-14db1d3fe077)
 #
 8. Created a new sheet with a pivot table that analyzes your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per sub-category.
@@ -28,6 +30,7 @@ Used conditional formatting to fill each cell in the outcome column with a diffe
 14. Now, created a pivot-chart line graph that visualizes this new table.
 15. Created a report in Microsoft Word, and for answering the required questions:(PDF file is included)
 16. For Crowdfunding Goal Analysis, Created a new sheet with 8 columns with required column and row headers.
+
     ![image](https://github.com/RoshniRanaDS/Data_Analysis_by_Excel/assets/161755928/6c96f970-9d45-4ad0-a564-2b4562f71cdb)
 #
 17. Used the COUNTIFS() formula, for counting how many successful, failed, and canceled projects were created with goals within the ranges listed as per table sheet created. Populate the Number Successful, Number Failed, and Number Canceled columns with these data points.

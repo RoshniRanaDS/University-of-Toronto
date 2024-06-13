@@ -1,8 +1,8 @@
 # Excel challenge-University-of-Toronto 
-# Background for Analysis 
+## Background for Analysis 
 Crowdfunding platforms like Kickstarter and Indiegogo have been growing in success and popularity since the late 2000s. From independent content creators to famous celebrities, more and more people are using crowdfunding to launch new products and generate buzz, but not every project has found success. To receive funding, the project must meet or exceed an initial goal, so many organizations dedicate considerable resources looking through old projects in an attempt to discover “the trick” to finding success. need to organize and analyze a database of 1,000 sample projects to uncover any hidden trends.
 
-# Excel file and Report file are attached for More details
+### Excel file and Report file are attached for More details
 
 # Work includes:
 ![image](https://github.com/RoshniRanaDS/Data_Analysis_by_Excel/assets/161755928/0c687c3f-2931-4037-bb6e-c37490e4f92e)

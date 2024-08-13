@@ -1,6 +1,3 @@
-
-# University-of-Toronto
-
 # Excel challenge-University-of-Toronto 
 ![image](https://github.com/RoshniRanaDS/Data_Analysis_by_Excel/assets/161755928/b6ae8f88-baf5-4ef3-8cdc-3f93b224429c)
 #
